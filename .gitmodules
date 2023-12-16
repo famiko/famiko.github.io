@@ -1,0 +1,3 @@
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/famiko/hugo-theme-diary.git
