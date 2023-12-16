@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = 'wakuwaku'
 theme = 'diary'
+
+defaultContentLanguage="zh"
 
 [markup]
   [markup.highlight]
@@ -15,7 +16,6 @@ theme = 'diary'
     tabWidth = 4
 
 # theme config
-DefaultContentLanguage = "zh"
 
 [params]
 enableReadingTime=true

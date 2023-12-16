@@ -1,0 +1,9 @@
+baseURL = 'https://famiko.github.io/'
+[params]
+walineServer = "https://waline-comment-yp16s9a6w-famikos-projects.vercel.app"
+
+
+googleAnalytics = "G-JL0XYLLSXJ"
+[services]
+  [services.googleAnalytics]
+    ID = 'G-JL0XYLLSXJ'
