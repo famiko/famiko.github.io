@@ -1,8 +1,11 @@
+baseURL = "http://localhost"
 languageCode = 'zh-cn'
 title = 'wakuwaku'
 theme = 'diary'
-
 defaultContentLanguage="zh"
+hasCJKLanguage = true
+
+
 
 [markup]
   [markup.highlight]
@@ -24,10 +27,10 @@ enableReadingTime=true
 url = "/posts"
 name = "归档"
 weight = 1
-[[menu.main]]
-url = "/categories"
-name = "分类"
-weight = 2
+# [[menu.main]]
+# url = "/categories"
+# name = "分类"
+# weight = 2
 [[menu.main]]
 url = "/tags"
 name = "标签"
