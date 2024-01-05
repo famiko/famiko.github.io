@@ -1,6 +1,6 @@
 baseURL = 'https://famiko.github.io/'
-[params]
-walineServer = "https://waline-comment-rho.vercel.app"
+
+disqusShortname = 'wakuwaku'
 
 
 googleAnalytics = "G-JL0XYLLSXJ"
