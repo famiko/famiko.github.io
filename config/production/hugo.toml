@@ -1,5 +1,6 @@
 baseURL = 'https://famiko.github.io/'
 
+[params]
 disqusShortname = 'wakuwaku'
 
 
